@@ -1,0 +1,2 @@
+[INFO] 2016-12-18 13:33:10,200 Testscript.script_Search Invalid_Search - Actual search error message is: Sorry..'sdlk' does not match any product on Rediff Books.
+[INFO] 2016-12-18 13:33:10,543 Testscript.script_Search Invalid_Search - Passed as the error message as per the requirments

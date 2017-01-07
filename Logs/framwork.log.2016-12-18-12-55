@@ -1,0 +1,5 @@
+[INFO] 2016-12-18 12:55:27,813 Testscript.script_Search Invalid_Search - Staredt execution of test case GB_08_1.0
+[INFO] 2016-12-18 12:55:28,500 Testscript.script_Search Invalid_Search - Clicked on Sign in link and the snapshot is stored at E:\DecFramework\Screenshot\GB_08_1.0_18-Dec-2016 12-55-28.png
+[INFO] 2016-12-18 12:55:29,977 Testscript.script_Search Invalid_Search - Entered login details
+[INFO] 2016-12-18 12:55:41,739 Testscript.script_Search Invalid_Search - Actual search error message is: Sorry..'sdlk' does not match any product on Rediff Books.
+[INFO] 2016-12-18 12:55:42,675 Testscript.script_Search Invalid_Search - Passed as the error message as per the requirments

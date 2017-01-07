@@ -1,0 +1,5 @@
+[INFO] 2016-12-17 13:27:09,128 Testscript.script_Search Invalid_Search - Staredt execution of test case GB_08_1.0
+[INFO] 2016-12-17 13:27:10,633 Testscript.script_Search Invalid_Search - Clicked on Sign in link
+[INFO] 2016-12-17 13:27:12,764 Testscript.script_Search Invalid_Search - Entered login details
+[INFO] 2016-12-17 13:27:23,188 Testscript.script_Search Invalid_Search - Actual search error message is: Sorry..'sdlk' does not match any product on Rediff Books.
+[INFO] 2016-12-17 13:27:23,188 Testscript.script_Search Invalid_Search - Passed as the error message as per the requirments

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16647" started-at="2017-01-07T12:14:17Z" finished-at="2017-01-07T12:14:33Z">
+    <groups>
+      <group name="Reg">
+        <method signature="script_cart.addbook(java.util.Map)[pri:0, instance:Testscript.script_cart@5cb137]" name="addbook" class="Testscript.script_cart"/>
+      </group> <!-- Reg -->
+      <group name="UAT">
+        <method signature="script_cart.addbook(java.util.Map)[pri:0, instance:Testscript.script_cart@5cb137]" name="addbook" class="Testscript.script_cart"/>
+      </group> <!-- UAT -->
+    </groups>
+    <test name="Test" duration-ms="16647" started-at="2017-01-07T12:14:17Z" finished-at="2017-01-07T12:14:33Z">
+      <class name="Testscript.script_cart">
+        <test-method status="PASS" signature="create_Report()[pri:0, instance:Testscript.script_cart@5cb137]" name="create_Report" is-config="true" duration-ms="172" started-at="2017-01-07T17:44:16Z" finished-at="2017-01-07T17:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Report -->
+        <test-method status="PASS" signature="launchApp(java.lang.String)[pri:0, instance:Testscript.script_cart@5cb137]" name="launchApp" is-config="true" duration-ms="5799" started-at="2017-01-07T17:44:17Z" finished-at="2017-01-07T17:44:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="addbook(java.util.Map)[pri:0, instance:Testscript.script_cart@5cb137]" name="addbook" duration-ms="7947" started-at="2017-01-07T17:44:23Z" data-provider="Addbook" finished-at="2017-01-07T17:44:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=Addbook, TC_ID=GB_12, Execute=Y, bookname=Flood and fire}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="cloaseApp()[pri:0, instance:Testscript.script_cart@5cb137]" name="cloaseApp" is-config="true" duration-ms="2355" started-at="2017-01-07T17:44:31Z" finished-at="2017-01-07T17:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloaseApp -->
+      </class> <!-- Testscript.script_cart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
