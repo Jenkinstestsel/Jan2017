@@ -52,7 +52,7 @@
 			<classpath>
 				<pathelement location="${build}" />
 			</classpath>
-			<xmlfileset dir="${basedir}" includes="testnggropus.xml" />
+			<xmlfileset dir="${basedir}" includes="testnggrid.xml" />
 		</testng>
 	</target>
 
