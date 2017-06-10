@@ -1,6 +1,6 @@
 package Testscript;
 
-import java.util.Map;
+import java.util.Map74747474;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
